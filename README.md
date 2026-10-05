@@ -41,9 +41,13 @@ The main goal is to clean the raw data, store the cleaned data in MySQL, and use
 ```text
 Sales-Analysis-Project/
 │
+├── unclean_orders.csv
+├── unclean_customers.csv
+│
 ├── clean_orders.csv
 ├── clean_customers.csv
+│
 ├── analysis_unclean.py
-├── Sales_Analysis.sql
+├── sales_analysis.sql
+│
 └── README.md
-
