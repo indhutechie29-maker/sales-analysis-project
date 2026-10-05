@@ -1,0 +1,13 @@
+Customer_ID,Customer_Name,Region,Email
+C001,Arun Kumar,Chennai,arun@gmail.com
+C002,Priya,Chennai,priya@gmail.com
+C003,Rahul ,Bangalore,rahul@gmail.com
+C004,Meena,Chennai,
+C005,Suresh,Chennai,suresh@gmail.com
+C006,Kavya,Hyderabad,kavya@gmail.com
+C007,Vijay,Bangalore,vijay@gmail.com
+C008,Divya,Chennai,divya@gmail.com
+C009,Manoj,Hyderabad,manoj@gmail.com
+C010,Anitha,Bangalore,anitha@gmail.com
+C011,,Chennai,unknown@gmail.com
+C012,Karthik,Chennai,karthik@gmail.com
